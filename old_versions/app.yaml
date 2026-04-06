@@ -5,28 +5,28 @@ command:
 env:
   - name: APP_PASSWORD
     description: "Password for the app login gate"
-    value: "2026mdlzLOCcreation"
+    value: ""
   - name: WILIOT_API_KEY
     description: "Wiliot Platform API key"
-    value: "ZDFhMTM5MTAtMDY3Ni00YTQxLWIzYWQtYjYzZGEwMWQ3MjFlOmR6MUF6VVlhT05DLTJ2UHBlTnNfZDlxV1hoSGlfdjhxaGRVNXUtT19qaUE="
+    value: ""
   - name: WILIOT_OWNER_ID
     description: "Wiliot Platform owner ID"
-    value: "365590850947"
+    value: ""
   - name: SMTP_HOST
     description: "SMTP server host"
-    value: "email-smtp.us-east-1.amazonaws.com"
+    value: ""
   - name: SMTP_PORT
     description: "SMTP server port"
-    value: "587"
+    value: ""
   - name: SMTP_USERNAME
     description: "SMTP username"
-    value: "AKIA5MXQEHO3AMOMBWF4"
+    value: ""
   - name: SMTP_PASSWORD
     description: "SMTP password"
-    value: "BGyWDV4vZ0KSBjpPSAzOHGHRFhfo4asHwN8YoilHyBnw"
+    value: ""
   - name: SMTP_SENDER
     description: "Sender email address"
-    value: "solutions@wiliot.com"
+    value: ""
   - name: RESULTS_RECIPIENT
     description: "Email recipient for creation results"
-    value: "fernando.carrero@wiliot.com"
+    value: ""
