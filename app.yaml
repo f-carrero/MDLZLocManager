@@ -11,10 +11,10 @@ env:
     value: ""
   - name: SMTP_HOST
     description: "SMTP server host"
-    value: "email-smtp.us-east-1.amazonaws.com"
+    value: ""
   - name: SMTP_PORT
     description: "SMTP server port"
-    value: "587"
+    value: ""
   - name: SMTP_USERNAME
     description: "SMTP username"
     value: ""
@@ -23,7 +23,7 @@ env:
     value: ""
   - name: SMTP_SENDER
     description: "Sender email address"
-    value: "solutions@wiliot.com"
+    value: ""
   - name: RESULTS_RECIPIENT
     description: "Email recipient for creation results"
-    value: "fernando.carrero@wiliot.com"
+    value: ""
