@@ -1,0 +1,29 @@
+command:
+  - "bash"
+  - "start.sh"
+
+env:
+  - name: WILIOT_API_KEY
+    description: "Wiliot Platform API key"
+    value: "MzY0NjJhNmItMmM4OC00MWYzLTljMDYtODA2YmZmNGU2MjI0OjVMdWxwTllqVWlFWXdBNWhIYnd4ejh3LXdaSS1wWnp3M3p6V0g1M1Vzdkk="
+  - name: WILIOT_OWNER_ID
+    description: "Wiliot Platform owner ID"
+    value: "369191738549"
+  - name: SMTP_HOST
+    description: "SMTP server host"
+    value: "email-smtp.us-east-1.amazonaws.com"
+  - name: SMTP_PORT
+    description: "SMTP server port"
+    value: "587"
+  - name: SMTP_USERNAME
+    description: "SMTP username"
+    value: "AKIA5MXQEHO3AMOMBWF4"
+  - name: SMTP_PASSWORD
+    description: "SMTP password"
+    value: "BGyWDV4vZ0KSBjpPSAzOHGHRFhfo4asHwN8YoilHyBnw"
+  - name: SMTP_SENDER
+    description: "Sender email address"
+    value: "solutions@wiliot.com"
+  - name: RESULTS_RECIPIENT
+    description: "Email recipient for creation results"
+    value: "fernando.carrero@wiliot.com"
